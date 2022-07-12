@@ -1,0 +1,2 @@
+getgenv().Enabled = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WetCheezit/Releases/main/Big-Paintball/KillAll.lua"))()
